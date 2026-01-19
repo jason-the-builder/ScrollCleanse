@@ -1,46 +1,72 @@
-# ScrollCleanse
+# 💠 Algorithm Refresh (v2.1)
+> **"Your attention is your most valuable asset. Stop letting bad algorithms waste it."**
 
-"Your attention is your most valuable asset. Stop letting bad algorithms waste it."
+This is an open-source toolkit designed to help you break free from "algorithmic ruts." Instead of being a passive consumer, use this 3-step system to **scrub** your history and **re-seed** your feed with intentionality.
 
-This is an open-source toolkit designed to help you break free from "algorithmic ruts." Whether you are stuck in a doomscrolling loop, outgrown old interests, or just want a "digital palate cleanser," this guide provides the steps to pivot your feeds with intentionality.
+---
 
-🛠 The 3-Step Workflow
+## 🛠 The 3-Step Workflow
 
-Step 1: The Clean Slate (The Scrub) 🧹
-Before planting new seeds, you must clear the "mud" from your canvas. Use these direct links to reset your platform history.
+### Step 1: The Clean Slate (The Scrub) 🧹
+Before planting new seeds, you must clear the "mud" from your canvas. 
+* **[View the Full 2026 Cleaning Guide](./CLEANING_GUIDE.md)** — *Direct reset links for YouTube, IG, TikTok, and X.*
 
-View the Full Cleaning Guide — Includes YouTube, IG, TikTok, and Spotify links.
+---
 
-Step 2: Choose Your "Interest Seed" (The Pivot) 🌱
-Now that your feed is empty, tell the algorithm what you actually care about. Choose ONE of the seeds below and follow the instructions inside.
+## Step 2: Choose Your Archetype 🌱
+Read the descriptions below to find the "vibe" you want to pivot toward.
 
-🐶 Golden Retriever - Pure wholesome joy. Best for stress relief.
+#### 🏗️ Category A: High Performance & Learning
+* **Founder Mode:** High-energy building. SaaS, Startups, and Venture Capital. Moving from "Consumer" to "Creator."
+* **Open Ivy:** Turning your feed into a world-class university. MIT, Stanford, and Yale lectures. Reclaiming deep focus.
+* **Stoic Fortress:** Calm, detached, and disciplined. Marcus Aurelius meets Minimalism. Breaking "outrage-addiction."
 
-🚀 Founder Mode - Startups, SaaS, and Building. Best for productivity.
+#### 🌿 Category B: Lifestyle & Vitality
+* **The Blue Zone:** Longevity, functional fitness, and "living to 100." Focusing on health as a long-term investment.
+* **The Master Chef:** Moving from "fast food" to "food mastery." Culinary science and world-class techniques.
+* **Off-Grid Escape:** Cabin building, foraging, and minimalist living. Reminding yourself of the physical world.
 
-🎓 Open Yale - Academic deep-dives and lectures. Best for learning.
+#### ✨ Category C: Inspiration & Aesthetic
+* **Golden Retriever:** Maximum wholesome. Puppy rescues and heartwarming stories. A "digital hug" to break a negative mood.
+* **Future Shock:** AI, Space-X, and Robotics. Replacing "fear" of the future with "awe" at the frontier of tech.
+* **Renaissance Human:** Art history, classical music, and philosophy. Feeling cultured and well-rounded.
+* **Night Drive:** A sophisticated auditory reset. Instrumental jazz, funk, and global lo-fi beats.
 
-🧘 Stoic Fortress - Resilience and philosophy. Best for mental health.
+---
 
-🍳 Cyber-Chef - High-skill culinary arts. Best for hobbyists.
+## Step 3: Pivot via the Matrix 🎯
+Click the platform link for your chosen archetype to get specific "seeding" instructions.
 
-Step 3: Guard Your Feed (The Maintenance) 🛡️
-Algorithms are like gardens—they need weeding.
+### [Performance & Learning]
+| Archetype | 📸 Instagram | 📺 YouTube | 📱 TikTok | 🐦 X |
+| :--- | :--- | :--- | :--- | :--- |
+| **Founder Mode** | [IG Pivot](./seeds/ig/founder.md) | [YT Pivot](./seeds/yt/founder.md) | [TT Pivot](./seeds/tt/founder.md) | [X Pivot](./seeds/x/founder.md) |
+| **Open Ivy** | [IG Pivot](./seeds/ig/ivy.md) | [YT Pivot](./seeds/yt/ivy.md) | [TT Pivot](./seeds/tt/ivy.md) | [X Pivot](./seeds/x/ivy.md) |
+| **Stoic Fortress** | [IG Pivot](./seeds/ig/stoic.md) | [YT Pivot](./seeds/yt/stoic.md) | [TT Pivot](./seeds/tt/stoic.md) | [X Pivot](./seeds/x/stoic.md) |
 
-The "Not Interested" Rule: For the first 48 hours after a reset, be aggressive. If a video pops up that doesn't fit your new vibe, hit "Not Interested" immediately.
+### [Lifestyle & Vitality]
+| Archetype | 📸 Instagram | 📺 YouTube | 📱 TikTok | 🐦 X |
+| :--- | :--- | :--- | :--- | :--- |
+| **The Blue Zone** | [IG Pivot](./seeds/ig/health.md) | [YT Pivot](./seeds/yt/health.md) | [TT Pivot](./seeds/tt/health.md) | [X Pivot](./seeds/x/health.md) |
+| **The Master Chef** | [IG Pivot](./seeds/ig/chef.md) | [YT Pivot](./seeds/yt/chef.md) | [TT Pivot](./seeds/tt/chef.md) | [X Pivot](./seeds/x/chef.md) |
+| **Off-Grid Escape** | [IG Pivot](./seeds/ig/nature.md) | [YT Pivot](./seeds/yt/nature.md) | [TT Pivot](./seeds/tt/nature.md) | [X Pivot](./seeds/x/nature.md) |
 
-Search is a Signal: Every time you search for something, you are "voting" for what you want to see. Use it wisely.
+### [Inspiration & Aesthetic]
+| Archetype | 📸 Instagram | 📺 YouTube | 📱 TikTok | 🐦 X |
+| :--- | :--- | :--- | :--- | :--- |
+| **Golden Retriever**| [IG Pivot](./seeds/ig/puppy.md) | [YT Pivot](./seeds/yt/puppy.md) | [TT Pivot](./seeds/tt/puppy.md) | [X Pivot](./seeds/x/puppy.md) |
+| **Future Shock** | [IG Pivot](./seeds/ig/future.md) | [YT Pivot](./seeds/yt/future.md) | [TT Pivot](./seeds/tt/future.md) | [X Pivot](./seeds/x/future.md) |
+| **Renaissance Human**| [IG Pivot](./seeds/ig/art.md) | [YT Pivot](./seeds/yt/art.md) | [TT Pivot](./seeds/tt/art.md) | [X Pivot](./seeds/x/art.md) |
+| **Night Drive** | [IG Pivot](./seeds/ig/night.md) | [YT Pivot](./seeds/yt/night.md) | [TT Pivot](./seeds/tt/night.md) | [X Pivot](./seeds/x/night.md) |
 
-Weekly Check-ins: Run a "mini-scrub" once a week to keep the noise away.
+---
 
-🤝 For Builders & Contributors
-This project is a work-in-progress by a new builder who wants to make the internet a better place. Contributions are welcome!
+## Step 4: Guard Your Feed (The Maintenance) 🛡️
+1. **The "Not Interested" Rule:** For the first 48 hours, be aggressive. If a video doesn't fit your new vibe, hit "Not Interested" immediately.
+2. **Search is a Signal:** Use your search bar to "vote" for what you want to see.
+3. **Weekly Check-ins:** Run a "mini-scrub" once a week to keep the noise away.
 
-Have a new seed? Submit a Pull Request with a new .md file in the /seeds folder.
+---
 
-Link broken? Help us keep the direct settings links updated as platforms change.
-
-Ideas? Open an Issue and let's chat!
-
-⚖️ Disclaimer
-Clearing your history will reset your recommendations. It will not delete your saved playlists, liked photos, or uploaded content. Use responsibly.
+## 🛡️ Disclaimer
+*Clearing your history will reset your recommendations. It will not delete your saved playlists, liked photos, or followers. Use responsibly.*
